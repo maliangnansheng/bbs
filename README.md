@@ -22,7 +22,7 @@
 
 ## 技术栈
 
-`**jsp** **servlet** **javabean** **mysql** **html** **css** **javascript** **jQuery`**
+**jsp** **servlet** **javabean** **mysql** **html** **css** **javascript** **jQuery**
 
 ## 预览
 - **登录界面**
